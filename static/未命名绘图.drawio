@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T01:59:10.568Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gTfDONk5gWN-tmjQj7dU" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-06T02:18:14.875Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="mIFsq3iLQ9YARch4E-ej" version="21.2.9" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1393" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gVCvz15bsPlof6989XjH-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gVCvz15bsPlof6989XjH-41" target="gVCvz15bsPlof6989XjH-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gVCvz15bsPlof6989XjH-41" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1174" y="435" width="416" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="n0jJVnxUDAGsLWo01qbZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="n0jJVnxUDAGsLWo01qbZ-2" target="n0jJVnxUDAGsLWo01qbZ-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -224,7 +230,11 @@
           <mxGeometry x="1065" y="318" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n0jJVnxUDAGsLWo01qbZ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000CC;" parent="1" source="n0jJVnxUDAGsLWo01qbZ-74" target="n0jJVnxUDAGsLWo01qbZ-79" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1220" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="n0jJVnxUDAGsLWo01qbZ-83" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="n0jJVnxUDAGsLWo01qbZ-80" vertex="1" connectable="0">
           <mxGeometry x="0.3733" y="-1" relative="1" as="geometry">
@@ -242,94 +252,83 @@
         <mxCell id="n0jJVnxUDAGsLWo01qbZ-74" value="房间过滤&lt;br&gt;location == all rooms" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1260" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n0jJVnxUDAGsLWo01qbZ-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0000cc;" parent="1" source="n0jJVnxUDAGsLWo01qbZ-75" target="n0jJVnxUDAGsLWo01qbZ-87" edge="1">
+        <mxCell id="gVCvz15bsPlof6989XjH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="n0jJVnxUDAGsLWo01qbZ-75" target="gVCvz15bsPlof6989XjH-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="n0jJVnxUDAGsLWo01qbZ-96" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="n0jJVnxUDAGsLWo01qbZ-95" vertex="1" connectable="0">
-          <mxGeometry x="-0.3778" y="3" relative="1" as="geometry">
+        <mxCell id="gVCvz15bsPlof6989XjH-33" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gVCvz15bsPlof6989XjH-31">
+          <mxGeometry x="-0.0448" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n0jJVnxUDAGsLWo01qbZ-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="n0jJVnxUDAGsLWo01qbZ-75" target="n0jJVnxUDAGsLWo01qbZ-86" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gVCvz15bsPlof6989XjH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000CC;" edge="1" parent="1" source="n0jJVnxUDAGsLWo01qbZ-75" target="gVCvz15bsPlof6989XjH-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1550" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="n0jJVnxUDAGsLWo01qbZ-98" value="false" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="n0jJVnxUDAGsLWo01qbZ-97" vertex="1" connectable="0">
-          <mxGeometry x="-0.7043" y="-1" relative="1" as="geometry">
+        <mxCell id="gVCvz15bsPlof6989XjH-34" value="true" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gVCvz15bsPlof6989XjH-32">
+          <mxGeometry x="-0.0182" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n0jJVnxUDAGsLWo01qbZ-75" value="房间过滤&lt;br&gt;target == all lights" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1440" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="n0jJVnxUDAGsLWo01qbZ-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.59;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="n0jJVnxUDAGsLWo01qbZ-78" target="n0jJVnxUDAGsLWo01qbZ-84" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1300" y="510" />
-              <mxPoint x="1335" y="510" />
-              <mxPoint x="1335" y="509" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="n0jJVnxUDAGsLWo01qbZ-78" value="具体房间" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1260" y="440" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="n0jJVnxUDAGsLWo01qbZ-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.031;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="n0jJVnxUDAGsLWo01qbZ-79" target="n0jJVnxUDAGsLWo01qbZ-84" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1190" y="510" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="1270" y="447.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n0jJVnxUDAGsLWo01qbZ-79" value="所有房间房间" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="440" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="n0jJVnxUDAGsLWo01qbZ-84" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="1355" y="450" width="160" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="n0jJVnxUDAGsLWo01qbZ-85" value="灯的操作" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1375" y="450" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="n0jJVnxUDAGsLWo01qbZ-86" value="具体灯" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1375" y="475" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="n0jJVnxUDAGsLWo01qbZ-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="n0jJVnxUDAGsLWo01qbZ-84" target="n0jJVnxUDAGsLWo01qbZ-35" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1435" y="610" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="n0jJVnxUDAGsLWo01qbZ-87" value="所有灯" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1375" y="510" width="80" height="30" as="geometry" />
+          <mxGeometry x="1180" y="450" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVCvz15bsPlof6989XjH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gVCvz15bsPlof6989XjH-2" target="n0jJVnxUDAGsLWo01qbZ-35">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1105" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gVCvz15bsPlof6989XjH-2" value="切换场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1055" y="495" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="gVCvz15bsPlof6989XjH-9" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="1132.5" y="660" width="387.5" height="250" as="geometry" />
+          <mxGeometry x="1180" y="660" width="387.5" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="gVCvz15bsPlof6989XjH-10" value="灯操作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="662" width="60" height="30" as="geometry" />
+        <mxCell id="gVCvz15bsPlof6989XjH-10" value="操作灯" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1345" y="662" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gVCvz15bsPlof6989XjH-11" value="亮度调节&lt;br&gt;value &amp;lt;= 100 ||&lt;br&gt;value contain: up/down&lt;br&gt;当前亮度+-30" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1183" y="700" width="130" height="60" as="geometry" />
+          <mxGeometry x="1241" y="700" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gVCvz15bsPlof6989XjH-12" value="颜色调节&lt;br&gt;value contain:&#39;#&#39; ||&lt;br&gt;value map本地颜色对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1326" y="700" width="130" height="60" as="geometry" />
+          <mxGeometry x="1384" y="700" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gVCvz15bsPlof6989XjH-13" value="开关灯调节&lt;br&gt;value = on/off" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1183" y="785" width="130" height="60" as="geometry" />
+          <mxGeometry x="1241" y="785" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gVCvz15bsPlof6989XjH-14" value="色温调节&lt;br&gt;value &amp;gt; 100&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1326" y="785" width="130" height="60" as="geometry" />
+          <mxGeometry x="1384" y="785" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gVCvz15bsPlof6989XjH-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=14;endSize=3.91;" edge="1" parent="1" source="n0jJVnxUDAGsLWo01qbZ-84">
+        <mxCell id="gVCvz15bsPlof6989XjH-18" value="具体灯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="447.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVCvz15bsPlof6989XjH-19" value="所有灯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="450" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gVCvz15bsPlof6989XjH-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gVCvz15bsPlof6989XjH-37" target="n0jJVnxUDAGsLWo01qbZ-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1382" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gVCvz15bsPlof6989XjH-37" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;操作灯&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1322" y="535" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="gVCvz15bsPlof6989XjH-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.423;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="gVCvz15bsPlof6989XjH-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1495" y="570" as="sourcePoint" />
-            <mxPoint x="1345" y="680" as="targetPoint" />
+            <mxPoint x="1380" y="580" as="sourcePoint" />
+            <mxPoint x="1430" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
