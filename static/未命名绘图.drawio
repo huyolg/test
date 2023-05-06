@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T01:53:57.823Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lC_FvP4eO1xKQPMw6xFv" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-06T01:59:10.568Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gTfDONk5gWN-tmjQj7dU" version="21.2.9" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1393" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1393" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -323,7 +323,7 @@
         <mxCell id="gVCvz15bsPlof6989XjH-13" value="开关灯调节&lt;br&gt;value = on/off" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1183" y="785" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gVCvz15bsPlof6989XjH-14" value="亮度调节&lt;br&gt;value &amp;gt; 100&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gVCvz15bsPlof6989XjH-14" value="色温调节&lt;br&gt;value &amp;gt; 100&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1326" y="785" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gVCvz15bsPlof6989XjH-15" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=14;endSize=3.91;" edge="1" parent="1" source="n0jJVnxUDAGsLWo01qbZ-84">
